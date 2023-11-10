@@ -1,7 +1,7 @@
 <h1 align="center">I'm Soua　Matsura</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matsurasoua&label=Profile%20views&color=0e75b6&style=flat" alt="matsurasoua" /> </p>
 
-- 🌱 I’m currently learning **python、Ruby、Git**
+- 🌱 I’m currently learning **python,flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
