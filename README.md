@@ -1,9 +1,9 @@
 <h1 align="center">I'm Soua　Matsura</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matsurasoua&label=Profile%20views&color=0e75b6&style=flat" alt="matsurasoua" /> </p>
 
-- 🌱 I’m currently learning **python,flutter**
+- 勉強中の言語 **python,flutter**
 
-<h3 align="left">Connect with me:soamatsura@gmail.com</h3>
+<h3 align="left">連絡先:</h3>soamatsura@gmail.com
 <p align="left">
 </p>
 
