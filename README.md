@@ -1,4 +1,4 @@
-<h1 align="center">I'm Soua　Matsura</h1>
+<h1 align="center">松浦壮吾のプロフィール</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matsurasoua&label=Profile%20views&color=0e75b6&style=flat" alt="matsurasoua" /> </p>
 
 <h3 align="left">勉強中の言語:</h3>Python,Flutter
