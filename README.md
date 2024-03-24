@@ -4,9 +4,9 @@
 # 勉強中の言語 
 Python,Flutter
 # Language
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=matsurasoua&layout=compact&theme=dracula'></img>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matsurasoua&theme=dracula&show_icons=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matsurasoua&theme=dracula)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=matsurasoua&layout=compact'></img>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matsurasoua&show_icons=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matsurasoua)
 
 <h3>連絡先</h3>
 soamatsura@gmail.com
