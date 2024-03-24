@@ -5,5 +5,5 @@
 Python,Flutter
 # Language
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=matsurasoua&layout=compact&theme=dracula'></img>
-<h3>連絡先</h3>h3
+<h3>連絡先</h3>
 soamatsura@gmail.com
