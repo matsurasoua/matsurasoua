@@ -3,9 +3,9 @@
 
 # 勉強中の言語 
 Python,Flutter
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matsurasoua&theme=vue)
 # Language
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=matsurasoua&layout=compact&theme=dracula'></img>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matsurasoua&theme=vue)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matsurasoua&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>連絡先</h3>
