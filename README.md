@@ -6,7 +6,7 @@ Python,Flutter
 # Language
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=matsurasoua&layout=compact'></img>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matsurasoua&show_icons=true&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matsurasoua)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matsurasoua&theme=github)
 
 <h3>連絡先</h3>
 soamatsura@gmail.com
