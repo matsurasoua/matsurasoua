@@ -1,4 +1,4 @@
-<h1 align="center">松浦壮吾のプロフィール</h1>
+<h1 align="center">Soa Matsura's Profile</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matsurasoua&label=Profile%20views&color=0e75b6&style=flat" alt="matsurasoua" /> </p>
 
 # My Info
